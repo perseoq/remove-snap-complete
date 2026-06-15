@@ -18,7 +18,7 @@ A robust, secure, and user-friendly Bash script to **completely remove Snap (sna
 
 ## Requirements
 
-- **Ubuntu** (tested on 22.04, 24.04, and 24.10+).
+- **Ubuntu** (tested on 22.04, 24.04, and 26.04+).
 - **Root privileges** (run with `sudo`).
 
 ## Installation
